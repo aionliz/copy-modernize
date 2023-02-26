@@ -219,3 +219,6 @@ button:hover{
 .carta img{
     border: 10px solid rgb(54, 55, 58);
 }
+footer .container{
+    justify-content: flex-end;
+}
